@@ -1,0 +1,3 @@
+interface TakePhoto {
+    cam
+}

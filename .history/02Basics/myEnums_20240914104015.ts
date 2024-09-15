@@ -1,0 +1,4 @@
+enum SeatChoice {
+    AISLE, 
+    MID
+}

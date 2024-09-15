@@ -1,0 +1,1 @@
+let score: numbe = 33
